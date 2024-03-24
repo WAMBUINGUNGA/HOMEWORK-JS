@@ -1,2 +1,2 @@
-# HOMEWORK-JS
+# Weekone code challenge
 Student Grade Generator
